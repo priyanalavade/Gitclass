@@ -1,3 +1,3 @@
 # Gitclass
-## 2nd
-###3rd
+## Create a new repository
+###Added a new readme file
